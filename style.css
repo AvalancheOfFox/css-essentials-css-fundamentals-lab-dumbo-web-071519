@@ -11,6 +11,10 @@ header{
 img {
   align-items: center;
 }
+figcaption{
+  font-size: 12px;
+  text-align: center;
+}
 
 a {
   padding-left: 10px;
