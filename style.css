@@ -9,7 +9,8 @@ header{
 }
 
 #featured-property{
-  align-content: center;
+  display: block;
+  margin: auto;
 }
 figcaption{
   font-size: 12px;
